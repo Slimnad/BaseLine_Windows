@@ -31,6 +31,8 @@
 
 #AuditPol /set /subcategory:"Ouvrir la session" /failure:enable
 
+#Auditpol /set /category:"Utilisation de privilège" /success:enable /failure:enable
+
 ![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/cd6cb897-d730-4bf8-9575-8ce3157c78ff)
 
 ![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/ee5bbcaf-13ec-49a7-9e86-45bfd60ee3e9)
