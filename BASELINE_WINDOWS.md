@@ -2,12 +2,11 @@
 # BASELINE WINDOWS
 
 
-
 **Comparatifs PolicyAnalyzer avant et apres le durcissement.**
 - Avant
 ![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/5ae72679-326d-4185-8e87-7a99e940bfe9)
 
--Après
+- Après
 ![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/4b89dc76-5fb0-44fb-b0b5-a4e2cf676913)
 
 
@@ -36,4 +35,7 @@
 ![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/cd6cb897-d730-4bf8-9575-8ce3157c78ff)
 
 ![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/ee5bbcaf-13ec-49a7-9e86-45bfd60ee3e9)
+
+![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/552d9e5c-6098-4649-85a1-85ecdc21e498)
+
 
