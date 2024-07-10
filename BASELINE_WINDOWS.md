@@ -27,9 +27,9 @@
 
 **Captures des logs (ou resultat powershell) avec échec d'authentification et escalade de privilèges**
 
-#AuditPol /set /category:"Connexion de compte" /failue:enable
+#AuditPol /set /category:"Connexion de compte" /failure:enable
 
-#AuditPol /set /subcategory:"Ouvrir la session" /failue:enable
+#AuditPol /set /subcategory:"Ouvrir la session" /failure:enable
 
 ![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/cd6cb897-d730-4bf8-9575-8ce3157c78ff)
 
