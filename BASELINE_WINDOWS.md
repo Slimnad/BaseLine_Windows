@@ -4,15 +4,19 @@
 
 
 **Comparatifs PolicyAnalyzer avant et apres le durcissement.**
+![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/5ae72679-326d-4185-8e87-7a99e940bfe9)
 
-![Alt text]()
+![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/4b89dc76-5fb0-44fb-b0b5-a4e2cf676913)
+
 
 **Résultat de la commande "Get-BitLockerVolume"**
 
 ![Alt text](https://github.com/Slimnad/BaseLine_Windows/blob/main/Bitlock.png?raw=true)
 
 **Résultat de la commande "Get-MpPreference"**
+![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/1c964c57-9282-4e90-a2e8-fcee18304661)
 
+![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/13ef1c25-5dbc-4a08-893a-ec6e92e0758a)
 
 
 **Résultat de la commande "auditpol.exe /get /category:*"**
@@ -27,4 +31,5 @@
 
 ![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/cd6cb897-d730-4bf8-9575-8ce3157c78ff)
 
+![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/ee5bbcaf-13ec-49a7-9e86-45bfd60ee3e9)
 
