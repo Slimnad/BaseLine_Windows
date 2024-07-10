@@ -9,7 +9,6 @@
 - Après
 ![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/4b89dc76-5fb0-44fb-b0b5-a4e2cf676913)
 
-
 **Résultat de la commande "Get-BitLockerVolume"**
 
 ![Alt text](https://github.com/Slimnad/BaseLine_Windows/blob/main/Bitlock.png?raw=true)
