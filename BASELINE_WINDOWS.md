@@ -4,8 +4,10 @@
 
 
 **Comparatifs PolicyAnalyzer avant et apres le durcissement.**
+- Avant
 ![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/5ae72679-326d-4185-8e87-7a99e940bfe9)
 
+-Après
 ![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/4b89dc76-5fb0-44fb-b0b5-a4e2cf676913)
 
 
@@ -14,8 +16,10 @@
 ![Alt text](https://github.com/Slimnad/BaseLine_Windows/blob/main/Bitlock.png?raw=true)
 
 **Résultat de la commande "Get-MpPreference"**
+- Avant renforcement
 ![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/1c964c57-9282-4e90-a2e8-fcee18304661)
 
+- Après renforcement
 ![image](https://github.com/Slimnad/BaseLine_Windows/assets/163383857/13ef1c25-5dbc-4a08-893a-ec6e92e0758a)
 
 
